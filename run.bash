@@ -68,4 +68,4 @@ docker run --name $MODULENAME \
  $MODULENAME
 
 echo "# disallow xHost"
-xhost -
+##xhost -
